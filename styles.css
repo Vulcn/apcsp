@@ -1,0 +1,22 @@
+#name {
+    font-family: Chalkduster, fantasy;
+    font-size: 50px;
+    text-emphasis: underline;
+    color: pink;
+    opacity: 0.9;
+}
+
+.about {
+    font-family: Marker Felt, fantasy;
+}
+
+h1 {
+    color: purple;
+}
+
+li:hover {
+    color: blue;
+}
+h4.about {
+    color: magenta;
+}
